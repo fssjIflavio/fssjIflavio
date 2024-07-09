@@ -19,9 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png" height="40" alt="python logo" />
-  <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" height="40" alt="html logo" />
-  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" height="40" alt="portugol logo" />
+  <img src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png" height="60" alt="python logo" />
+  <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" height="60" alt="html logo" />
+  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" height="60" alt="portugol logo" />
 </div>
 
 ###
