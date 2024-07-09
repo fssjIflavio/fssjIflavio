@@ -19,9 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="60" alt="python logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" height="60" alt="html logo" />
-  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" height="60" alt="portugol logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="100" alt="python logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" height="100" alt="html logo" />
+  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" height="100" alt="portugol logo" />
 </div>
 
 ###
