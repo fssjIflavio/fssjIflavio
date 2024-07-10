@@ -1,8 +1,8 @@
-<h1 align="left">Olá! 👋 Bem-Vindo ao meu perfil!</h1>
+<h1 align="left">Hello, welcome to my profile! 👋</h1>
 
 ###
 
-<p align="left">Meu nome é Flávio Soares, sou estudante de Análise e Desenvolvimento de Sistemas!</p>
+<p align="left">My name is Flávio Soares da Silva Júnior, I am a Systems Analysis and Development student!</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Apaixonado por tecnologia e computadores no geral desde meus 12 anos! Estudando programação desde os meus 17 aninhos!<br>📚 Atualmente, estou focado em Python e na área de Data Science<br>🎯 Meu principal objetivo é entrar em uma vaga de estágio de TI.</p>
+<p align="left">✨ Passionate about technology and computers in general since I was 12 years old! Studying programming since I was 17!<br>📚 Currently, I am focused on Python and Data Science.<br>🎯 My main goal is to get an IT internship position..</p>
 
 ###
 
-<h2 align="left">Eu codo em:</h2>
+<h2 align="left">Programming languages ​​I use::</h2>
 
 ###
 
